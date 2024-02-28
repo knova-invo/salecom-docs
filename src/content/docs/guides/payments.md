@@ -18,3 +18,9 @@ Para dejar los pagos por defecto borrar la búsqueda y luego en el botón buscar
 Para ingresar en detalles de un pago se debe dar en la palabra de letras azules "ver", se muestra los detalles del pago, volver para salir.
 
 ![Pago](../../../assets/payments_detail.png)
+
+## Confirmar recibido de pago
+
+Para confirmar el recibido de pago debe dar en el botón azul de confirmar, ubicado en el detalle de cada pago.
+
+![Confirmar recibido](../../../assets/payments_confirm.png)

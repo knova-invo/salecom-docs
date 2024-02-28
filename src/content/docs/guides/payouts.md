@@ -31,5 +31,5 @@ Para dejar los pagos por defecto borrar la búsqueda y luego en el botón buscar
 ![Tabla de pagos](../../../assets/phistory_table.png)
 
 
-Para ingresar en detalles de un pago se debe dar en la palabra de letras azules “más”, se muestra los detalles del pago, volver para salir.
+Para ingresar en detalles de un pago se debe dar en la palabra de letras azules “más”, se muestra los detalles del pago, entre ellos la confimación de recibido, volver para salir.
 ![Pago](../../../assets/payouts_detail.png)
